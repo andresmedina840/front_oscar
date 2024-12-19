@@ -1,4 +1,3 @@
-// pages/InversionesActivas.tsx
 import * as React from "react";
 import { Grid, Card, CardContent, Typography, Table, TableBody, TableCell, TableContainer, TableRow, Paper } from "@mui/material";
 import Layout from "../components/Layout";
